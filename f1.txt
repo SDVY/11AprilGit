@@ -3,5 +3,10 @@ test for conflict merge
 test for conflict merge 
 test for conflict merge
 test for conflict merge
+<<<<<<< HEAD
 f1f1f1f1f1f1f1f1
 f1f1f1f1f1f1f1f1f1
+=======
+mainmainmainmainamain
+mainmainmainmainamain
+>>>>>>> main
